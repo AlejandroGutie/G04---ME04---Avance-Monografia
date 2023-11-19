@@ -10,7 +10,7 @@ Yeisson Alejandro Gutiérrez Cano
 El contenido y anexos como insumo y producto del desarrollo del avance en la monografía, reposan en el siguiente enlace de [GitHub.](https://github.com/AlejandroGutie/G04-ME04-Avance-Monografia/tree/main)
 
 # Procesamiento de los datos
-Se llevó a cabo en la herramienta de Google Collaboratory, en el siguiente enlace al Notebook denominado ["ME04 Desnutrición e inseguridad alimentaria".](https://colab.research.google.com/drive/1M0CyHxjmfsjj9tHoeWcnQvqw33gPURX2?authuser=1#scrollTo=CRiHTcNN1Tw1)
+Se llevó a cabo en la herramienta de Google Collaboratory, en el siguiente enlace al Notebook denominado ["ME04 Desnutrición e inseguridad alimentaria".](https://colab.research.google.com/drive/1M0CyHxjmfsjj9tHoeWcnQvqw33gPURX2?authuser=1#scrollTo=m-Kl9vWJJar_)
 
 ## Ejecución Notebook
 Se consolida en el notebook el apartado de Herramientas representadas en las Librerías, el Procesamiento de datos realizando su importación representados en dos dataset sobre los indicadores a nivel municipal de la Prevalencia de inseguridad alimentaria en el hogar (moderada o severa) y la Incidencia de desnutrición aguda en población menor de 5 años, e indicadores adicionales de Cobertura en educación superior, Cobertura de viviendas con agua potable y la Cobertura de viviendas con energía eléctrica a nivel municipal.
